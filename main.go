@@ -25,7 +25,6 @@ func main() {
 	pflag.BoolVarP(&isClient, "client", "c", false, "whether this node is a client")
 	pflag.BoolVarP(&isGen, "gen", "g", false, "generation bat")
 	pflag.Parse()
-
 	if isGen {
 		build.GenerateBatFile(nodeNum, shardNum, modID)
 		return

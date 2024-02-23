@@ -1,0 +1,27 @@
+S0N0: 2024/02/23 13:51:38 messageHandle.go:28: S0N0 get sequenceLock locked, now trying to propose...
+S0N0: 2024/02/23 13:51:38 messageHandle.go:35: S0N0 put the request into the pool ...
+txs: 1500 
+S0N0: 2024/02/23 13:36:49 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1431 
+S0N0: 2024/02/23 13:36:50 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 533 
+S0N0: 2024/02/23 13:36:51 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1595 
+S0N0: 2024/02/23 13:36:51 messageHandle.go:28: S0N0 get sequenceLock locked, now trying to propose...
+S0N0: 2024/02/23 13:36:51 messageHandle.go:35: S0N0 put the request into the pool ...
+S0N0: 2024/02/23 13:36:52 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1544 
+S0N0: 2024/02/23 13:36:53 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 692 
+S0N0: 2024/02/23 13:36:54 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1543 
+S0N0: 2024/02/23 13:36:55 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1377 
+S0N0: 2024/02/23 13:36:56 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 646 
+S0N0: 2024/02/23 13:36:57 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 309 
+S0N0: 2024/02/23 13:36:58 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 74 
+S0N0: 2024/02/23 13:36:59 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 140 
+S0N0: 2023/12/04 17:22:25 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1431 
+S0N0: 2023/12/04 17:22:26 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 533 
+S0N0: 2023/12/04 17:22:27 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1595 
+S0N0: 2023/12/04 17:22:28 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1544 
+S0N0: 2023/12/04 17:22:29 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 692 
+S0N0: 2023/12/04 17:22:30 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1543 
+S0N0: 2023/12/04 17:22:31 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 1377 
+S0N0: 2023/12/04 17:22:32 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 646 
+S0N0: 2023/12/04 17:22:33 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 309 
+S0N0: 2023/12/04 17:22:34 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 74 
+S0N0: 2023/12/04 17:22:35 pbftOutside_module.go:49: S0N0 : has handled injected txs msg, txs: 140 
